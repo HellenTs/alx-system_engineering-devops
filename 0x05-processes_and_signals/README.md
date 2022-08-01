@@ -1,0 +1,1 @@
+ Many operating systems allow signals to be sent to running processes. Some signals have a defined effect on the process, while others may be trapped at the code level and acted upon. For example, your process may trap the USR1 signal and use it to toggle debugging, and may use TERM to initiate a controlled shutdown.
