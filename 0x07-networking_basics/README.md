@@ -1,1 +1,1 @@
-The foundations of networking: switches, routers, and wireless access points Switches. Switches are the foundation of most business networks.
+Computer networking is often an essential skill for many IT proffesionals, There are many industry terms, aspects and elements of computer networking, and your depth of technical knowledge might help you secure an interview or offer during a job search. Knowing more about industry basics and what they mean can also help you determine if  IT is a carrer field you want to explore. 
